@@ -1,6 +1,6 @@
-CSC 4631 week 1 Git Lab 
+Updated by John Chola for CSC 4631 Git Lab 1.
 
-Group members:
+Group Members:
 John Chola
 Lubasi Sipangule
 
